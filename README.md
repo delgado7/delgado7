@@ -58,15 +58,15 @@ Here are some ideas to get you started:
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azizovrafael&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
+   <!-- <a href="https://github.com/delgado7"><img alt="My Activity Graph"/></a> -->
   <br/>
   
   
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rafael-azizov-3612391b2/"><img src="https://img.shields.io/badge/-Rafael%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rafael.jr077@gmail.com"><img src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/rafael.azizovv/"><img src="https://img.shields.io/badge/-@rafael.azizovv_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/rafael.azizov.503/"><img src="https://img.shields.io/badge/-@rafael.azizovv-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-Fabricio%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:fabridelgado02@gmail.com"><img src="https://img.shields.io/badge/-fabridelgado02@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/-@delgado7_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/-@delgado7-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
