@@ -1,6 +1,6 @@
 <h1 align="center">Hi , my name is Fabricio! Future Developer! <img src="https://media4.giphy.com/media/cP09PxipfaQJYGGF9z/giphy.gif?cid=ecf05e47m7rn93divobd6nx7qygekzfo7pr8mcmlkh28no3y&rid=giphy.gif&ct=s" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Abel&weight=900&size=25&duration=4000&pause=500&color=d90429&background=09062700&center=true&vCenter=true&width=435&lines=Always+learning!;AI+Enthusiast;Future+cybersecurity+expert;Web+technologies+are+nice+too" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Abel&weight=900&size=25&duration=4000&pause=500&color=d90429&background=09062700&center=true&vCenter=true&width=700&lines=Always+learning!;AI+Enthusiast;Web+technologies+are+nice;Beep+Beep+Boop+Boops+taking+over+the+world" alt="Typing SVG" /></a>
 </p>
 
 <!--
